@@ -4,9 +4,7 @@
     <tag>out.action=new Object(); </tag>
     <item>Sarah</item>
     <one-of>
-      <item>combien de pas j'ai marché<tag>out.action.jawboneup = "steps";</tag></item>
 	  <item>combien de pas j'ai fait<tag>out.action.jawboneup = "steps";</tag></item>
-      <item>combien j'ai marché de pas<tag>out.action.jawboneup = "steps";</tag></item>
 	  <item>combien j'ai fait de pas<tag>out.action.jawboneup = "steps";</tag></item>
       <item>quelle distance j'ai parcourue<tag>out.action.jawboneup = "distance";</tag></item>
       <item>combien de kilomètre j'ai fait<tag>out.action.jawboneup = "km";</tag></item>
