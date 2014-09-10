@@ -33,8 +33,8 @@ Instructions
 
 Actuellement, le plugin permet de lire uniquement les donn&eacute;es concernant les "pas". Je n'ai pas encore impl&eacute;ment&eacute; les parties "sommeil", "humeur", "nourritures", etc...
 
-SARAH combien de pas j'ai fait aujourd'hui
-SARAH combien j'ai fait de pas aujourd'hui
+SARAH combien de pas j'ai fait aujourd'hui  
+SARAH combien j'ai fait de pas aujourd'hui  
 SARAH quelle distance j'ai parcourue aujourd'hui
 SARAH combien de kilom&egrave;tre j'ai fait aujourd'hui
 SARAH combien de kilom&egrave;tre j'ai parcouru aujourd'hui
