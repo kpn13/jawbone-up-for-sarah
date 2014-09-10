@@ -1,0 +1,10 @@
+{
+  "modules" : { 
+    "jawboneup"  : {
+      "description": "Sarah donne les info du jawbone UP",
+      "version"    : "1.0",
+      "access_token"    : "",
+      "client_secret" : ""
+    }
+  }
+}

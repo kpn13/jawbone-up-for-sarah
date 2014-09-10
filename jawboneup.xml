@@ -1,0 +1,21 @@
+<grammar version="1.0" xml:lang="fr-FR" mode="voice" root="ruleJawboneUp" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
+  <rule id="ruleJawboneUp" scope="public">
+    <example>Sarah combien de pas j'ai fait aujourd'hui ?</example>
+    <tag>out.action=new Object(); </tag>
+    <item>Sarah</item>
+    <one-of>
+      <item>combien de pas j'ai marché<tag>out.action.jawboneup = "steps";</tag></item>
+	  <item>combien de pas j'ai fait<tag>out.action.jawboneup = "steps";</tag></item>
+      <item>combien j'ai marché de pas<tag>out.action.jawboneup = "steps";</tag></item>
+	  <item>combien j'ai fait de pas<tag>out.action.jawboneup = "steps";</tag></item>
+      <item>quelle distance j'ai parcourue<tag>out.action.jawboneup = "distance";</tag></item>
+      <item>combien de kilomètre j'ai fait<tag>out.action.jawboneup = "km";</tag></item>
+	  <item>combien de kilomètre j'ai parcouru<tag>out.action.jawboneup = "km";</tag></item>
+	  <item>quand j'ai été le plus actif<tag>out.action.jawboneup = "mostActiveHour";</tag></item>
+	  <item>quandj'ai fait le plus de pas<tag>out.action.jawboneup = "mostActiveHour";</tag></item>
+	  <item>quand mon objectif sera atteint<tag>out.action.jawboneup = "toGoal";</tag></item>
+    </one-of>
+    <item>aujourd'hui</item>
+    <tag>out.action._attributes.uri="http://127.0.0.1:8080/sarah/jawboneup";</tag>
+  </rule>
+</grammar>
