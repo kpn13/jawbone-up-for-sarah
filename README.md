@@ -35,9 +35,9 @@ Actuellement, le plugin permet de lire uniquement les donn&eacute;es concernant 
 
 SARAH combien de pas j'ai fait aujourd'hui  
 SARAH combien j'ai fait de pas aujourd'hui  
-SARAH quelle distance j'ai parcourue aujourd'hui
-SARAH combien de kilom&egrave;tre j'ai fait aujourd'hui
-SARAH combien de kilom&egrave;tre j'ai parcouru aujourd'hui
-SARAH quand j'ai &eacute;t&eacute; le plus actif aujourd'hui
-SARAH quand j'ai fait le plus de pas aujourd'hui
-SARAH quand mon objectif sera aujourd'hui		
+SARAH quelle distance j'ai parcourue aujourd'hui  
+SARAH combien de kilom&egrave;tre j'ai fait aujourd'hui  
+SARAH combien de kilom&egrave;tre j'ai parcouru aujourd'hui  
+SARAH quand j'ai &eacute;t&eacute; le plus actif aujourd'hui  
+SARAH quand j'ai fait le plus de pas aujourd'hui  
+SARAH quand mon objectif sera aujourd'hui		  
