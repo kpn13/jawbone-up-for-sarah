@@ -41,3 +41,7 @@ SARAH combien de kilom&egrave;tre j'ai parcouru aujourd'hui
 SARAH quand j'ai &eacute;t&eacute; le plus actif aujourd'hui  
 SARAH quand j'ai fait le plus de pas aujourd'hui  
 SARAH quand mon objectif sera aujourd'hui		  
+
+[UPDATE]
+
+Ce projet n'est plus activement maintenu.
